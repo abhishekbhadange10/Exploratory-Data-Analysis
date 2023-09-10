@@ -1,1 +1,1 @@
-# ML_Projects
+# EDA of Salaries Dataset
